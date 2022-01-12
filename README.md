@@ -1,6 +1,6 @@
 # PythonMachineLearning
 
-## This a basic tutorial for Machine Learning (ML)
+## This a basic tutorial for Machine Learning (ML) with Python
 
 ### Part 1: Supervised Learning
 
