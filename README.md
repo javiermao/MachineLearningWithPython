@@ -3,14 +3,14 @@
 ## This a basic tutorial for Machine Learning (ML) with Python
 
 ###  P1  - Introduction and preliminary concepts
+#### P1A - Datasets
 #### P1A - Correlation
 
-###  P2  - Datasets
 
-###  P3  - Supervised Learning
-#### P3A - Linear regression
-#### P3B - Logistic regression
-#### P3C - Linear discriminant analysis
+###  P2  - Supervised Learning
+#### P2A - Linear regression
+#### P2B - Logistic regression
+#### P2C - Linear discriminant analysis
 
-###  P4  - Unsupervised Learning
-#### P4A - k-means
+###  P3  - Unsupervised Learning
+#### P3A - k-means
