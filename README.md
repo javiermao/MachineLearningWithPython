@@ -4,6 +4,7 @@
 - A1 Load datasets
 - A2 Data Managment
 - A3 Data Visualization
+- A4 Data Standardization
 
 
 ###  Supervised Learning: Regression
