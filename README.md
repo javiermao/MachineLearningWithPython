@@ -1,16 +1,17 @@
-# PythonMachineLearning
+# Fundamentals of Machine Learning (ML) with Python
 
-## This a basic tutorial for Machine Learning (ML) with Python
+## This a basic tutorial for ML using Python
 
-###  P1  - Introduction and preliminary concepts
-#### P1A - Datasets
-#### P1A - Correlation
+###  Introduction and preliminary concepts
+A1 - Load datasets
+A2 - Data Managment
+A3 - Data Visualization
 
 
-###  P2  - Supervised Learning
-#### P2A - Linear regression
-#### P2B - Logistic regression
-#### P2C - Linear discriminant analysis
+###  Supervised Learning
+B1 - Linear regression
+B2 - Logistic regression
+B3 - Linear discriminant analysis
 
-###  P3  - Unsupervised Learning
-#### P3A - k-means
+###  Unsupervised Learning
+C1 - k-means
