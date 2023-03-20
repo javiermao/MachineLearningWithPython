@@ -1,6 +1,4 @@
-# Fundamentals of Machine Learning (ML) with Python
-
-## This a basic tutorial for ML using Python
+# Fundamentals of Machine Learning (ML) with Python: basic tutorial
 
 ###  Introduction and preliminary concepts
 A1 - Load datasets
